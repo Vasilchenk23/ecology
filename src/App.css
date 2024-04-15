@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("./img/cookFont.png");
+}
+
+@font-face {
+    font-family: Roboto-BlackItalic;
+    src: url("font/Roboto-BlackItalic.ttf");
+}
