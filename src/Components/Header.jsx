@@ -23,6 +23,7 @@ const Button = styled.button`
     background-color: rgba(223, 255, 132, 1);
     border: none;
     font-family: Roboto-BlackItalic;
+    margin: -10px 0px 10px;
 `;
 
 const Header = () => {
